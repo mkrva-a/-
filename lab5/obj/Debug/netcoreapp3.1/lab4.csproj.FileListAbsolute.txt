@@ -1,0 +1,44 @@
+C:\Users\1\Desktop\lab4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\1\Desktop\lab4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\1\Desktop\lab4\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\1\Desktop\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+C:\Users\1\Desktop\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+C:\Users\1\Desktop\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+C:\Users\1\Desktop\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+C:\Users\1\Desktop\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+C:\Users\1\Desktop\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\lab4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\staticwebassets\lab4.StaticWebAssets.Manifest.cache
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\staticwebassets\lab4.StaticWebAssets.xml
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\scopedcss\bundle\lab4.styles.css
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\lab4.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\1\Desktop\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
+C:\Users\1\Desktop\Универ\4 курс\lab4\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\1\Desktop\Универ\4 курс\lab4\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\1\Desktop\Универ\4 курс\lab4\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\1\Desktop\Универ\4 курс\lab4\bin\Debug\netcoreapp3.1\lab4.exe
+C:\Users\1\Desktop\Универ\4 курс\lab4\bin\Debug\netcoreapp3.1\lab4.deps.json
+C:\Users\1\Desktop\Универ\4 курс\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.json
+C:\Users\1\Desktop\Универ\4 курс\lab4\bin\Debug\netcoreapp3.1\lab4.runtimeconfig.dev.json
+C:\Users\1\Desktop\Универ\4 курс\lab4\bin\Debug\netcoreapp3.1\lab4.dll
+C:\Users\1\Desktop\Универ\4 курс\lab4\bin\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\lab4.AssemblyInfo.cs
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\lab4.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\lab4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\staticwebassets\lab4.StaticWebAssets.Manifest.cache
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\staticwebassets\lab4.StaticWebAssets.xml
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\scopedcss\bundle\lab4.styles.css
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\lab4.RazorTargetAssemblyInfo.cache
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\lab4.dll
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\lab4.pdb
+C:\Users\1\Desktop\Универ\4 курс\lab4\obj\Debug\netcoreapp3.1\lab4.genruntimeconfig.cache
